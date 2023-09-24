@@ -14,13 +14,13 @@
     <fragment
         android:id="@+id/navigation_search"
         android:name="com.vicryfahreza.tugas6.ui.search.SearchFragment"
-        android:label="@string/title_dashboard"
+        android:label="@string/title_search"
         tools:layout="@layout/fragment_search" />
 
     <fragment
         android:id="@+id/navigation_orders"
         android:name="com.vicryfahreza.tugas6.ui.orders.OrdersFragment"
-        android:label="@string/title_notifications"
+        android:label="@string/title_orders"
         tools:layout="@layout/fragment_orders" />
 
     <fragment
